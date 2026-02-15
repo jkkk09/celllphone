@@ -1,0 +1,8 @@
+{
+  "name": "Gemini OS",
+  "description": "An iPhone-inspired AI companion featuring chat, a world-building lore book, and customizable settings powered by Gemini 3.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
